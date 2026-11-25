@@ -2,6 +2,8 @@
 
 A compact, standalone browser utility for singers, voice teachers, and music theory students.
 
+**[Launch Singer’s Symbol Palette](https://newmanda.github.io/singers-palette/)**
+
 ## Features
 
 - IPA symbol sets for English, French, German, and Italian.
@@ -17,6 +19,10 @@ Open `index.html` in a modern browser. No build step, dependencies, or server-si
 
 ## Hosting
 
-Copy `index.html` into a static directory on your website, or enable GitHub Pages from Settings → Pages, using the main branch and root directory. On supported versions of Safari, use File → Add to Dock to launch the hosted page as a web app.
+Copy `index.html` and the accompanying `fonts/` directory into a static directory on your website, or enable GitHub Pages from Settings → Pages, using the main branch and root directory. On supported versions of Safari, use File → Add to Dock to launch the hosted page as a web app.
 
 The current application is version 17. Preferences are stored in the browser; they do not automatically transfer between different websites or browsers.
+
+## Font
+
+The self-hosted Charis font and its SIL Open Font License are bundled together in `fonts/`.
